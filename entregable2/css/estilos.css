@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  padding: 1rem;
+}
+form {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+#carrito-container {
+  display: grid;
+  gap: 1rem;
+}
+.card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 8px;
+}
